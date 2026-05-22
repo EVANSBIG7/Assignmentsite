@@ -1,0 +1,104 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+.container{
+  display: flex;
+}
+.beginer{
+  width: 50%;
+}
+.FOOD{
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+}
+
+/* .container{
+  height: 1000px;
+} */
+/* .text-side{
+  width: 50px;
+  padding: 50px;
+}
+.image-side{
+  width: 50px;
+}
+
+.image-side img{
+  width: 100%;
+  height: 100%;
+  /* object-fit: cover; */
+ */
+
+
+.introduction{
+  padding-top: 75px;
+  padding-left: 55px;
+}
+
+.intro{
+  padding-left: 50px;
+  padding-top: 50px;
+  color: pink;
+  font-size: 90px;
+  font-family:sans-serif;
+ /* font-weight: 300, 400, 600; */
+ 
+
+}
+
+.introduct{
+  padding-left: 50px;
+  color: black;
+  font-size: 90px;
+
+}
+.wonder{
+  padding-left: 50px;
+  color: pink;
+}
+.email-box{
+  display: flex;
+  align-items: center;
+width: 400px;
+border: 1px solid #ccc ;
+border-radius: 50px;
+overflow: hidden;
+margin-left: 50px;
+}
+
+.email-box input{
+  flex:  1;
+  padding: 15px;
+  border: none;
+  outline: none;
+}
+
+.email-box button{        
+  padding: 15px 30px;
+  border: none;
+  background:pink;
+  color: white;
+  border-radius: 40px;
+  cursor: pointer;
+}
+
+/* input{
+  padding: 10px;
+  width: 250px;
+  border-radius: 20px;
+}
+
+button{
+background:  pink;
+border: none;
+padding: 10px 20px;
+} */
+/* 
+.FOOD{
+  width: 400px;
+  height: auto;
+  max-width: 100%;
+} */
